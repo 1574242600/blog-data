@@ -1,0 +1,6 @@
+[
+    { "name": "主页", "svgId": "fill-house-door", "path": "/" },
+    { "name": "归档", "svgId": "fill-archive", "path": "/archives" },
+    { "name": "友人", "svgId": "fill-people", "path": "/friends" },
+    { "name": "关于", "svgId": "fill-heart", "path": "/about" }
+]
