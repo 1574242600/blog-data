@@ -13,6 +13,7 @@ tags:
 -----
 摸了几个月鱼，终于迁移到至少能用的程度了，不知道又会冒出来多少 bug。  
 体验下来，对这个项目而言 Astro 确实比 Gatsby 好用，其它的项目没经验不敢断言。  
+<!--more-->
 
 在获取数据方面，Astro 在 `.astro` 文件里非常直观方便
 
@@ -48,6 +49,6 @@ const text2 = await readFile('1.txt')
 - 修复了一些 bug
 
 todo
-- 使用 php 实现 [Moments][https://github.com/Drizzle365/Moments] 部分功能 (主要是1美元买了一年的虚拟主机，好像没地方用)
+- 使用 php 实现 [Moments](https://github.com/Drizzle365/Moments) 部分功能 (主要是1美元买了一年的虚拟主机，好像没地方用)
     - api，在友人界面实现友人动态
     - 聚合rss
