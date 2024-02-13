@@ -66,7 +66,7 @@ https://passport.bilibili.com/api/v2/oauth2/login 用于简单的获取用户的
 
 ### 返回示例
 https://passport.bilibili.com/api/oauth2/getKey
-```json[class="line-numbers"]
+```json
 {"ts":1577273591,   // 当前UNIX时间戳
  "code":0,          //状态码
  "data":{
@@ -79,7 +79,7 @@ https://passport.bilibili.com/api/oauth2/getKey
 ```
 
 https://passport.bilibili.com/api/v2/oauth2/login
-```json[class="line-numbers"]
+```json
 {
 	"ts": 1577278563, // 当前UNIX时间戳
 	"code": 0,  // 状态码
@@ -106,7 +106,7 @@ https://passport.bilibili.com/api/v2/oauth2/login
 > 把接口所需所有参数拼接，如utk=xx&time=xx，按参数名称排序，最后再拼接上密钥App-Secret，做md5加密 (callback不需要参与sign校检)           ------[https://github.com/fython/BilibiliAPIDocs][3]
 
 PHP 版本:
-```php[class="line-numbers"]
+```php
 /**
  * @param $params array 参数列表
  * @param $key 加密密钥
@@ -130,7 +130,7 @@ PHP 版本:
  get_sign(array("type"=>"json"),APP_SECRET);
 ```
 js版本:
-```js[class="line-numbers"]
+```js
 <script type="text/javascript" src="http://static.hdslb.com/js/md5.js">/script>
  function get_sign(params, key)
  {
@@ -156,7 +156,7 @@ js版本:
 ### password 生成方式
 在明文密码前拼接从https://passport.bilibili.com/api/oauth2/getKey得来的hash，用得来的公钥做rsa加密再base64  
 
-```php[class="line-numbers"]
+```php
 /**
  * @param $key 加密公钥
  * @param $hash string 哈希
@@ -201,10 +201,10 @@ https://passport.bilibili.com/captcha
 就行了
 
 ### 坑
-```php[class="line-numbers"]
+```php
 curl_setopt($lo, CURLOPT_POSTFIELDS,$data);
 ```
-```php[class="line-numbers"]
+```php
 curl_setopt($lo, CURLOPT_POSTFIELDS,http_build_query($data));
 ```
 区别：[https://www.cnblogs.com/52php/p/5677689.html][5]

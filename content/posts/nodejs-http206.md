@@ -60,7 +60,7 @@ Connection: keep-alive
 
 ## koa 实现部分功能
 
-```js[class="line-numbers"]
+```js
 /**
  * 206 Partial Content
  * @name http206

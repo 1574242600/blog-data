@@ -10,7 +10,7 @@ https://www.zhihu.com/question/381784377/answer/1099438784
 
 <!--more-->
 ## 正文
-```php[class="line-numbers"]
+```php
 $table = 'fZodR9XQDSUm21yCkr6zBqiveYah8bt4xsWpHnJE7jL5VG3guMTKNPAwcF';
 $tr = [];
 for ($i = 0; $i !== 58; $i++){

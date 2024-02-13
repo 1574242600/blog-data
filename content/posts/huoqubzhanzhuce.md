@@ -15,7 +15,7 @@ update: 2020-07-16 12:40:00
 ```
 <!--more-->
 ### 返回实例  
-```json[class="line-numbers"]
+```json
 {
   "code": 0,
   "message": "0",
@@ -42,7 +42,7 @@ update: 2020-07-16 12:40:00
 ```
 
 ### 返回实例  
-```json[class="line-numbers"]
+```json
 {
   "code": 0,
   "message": "0",

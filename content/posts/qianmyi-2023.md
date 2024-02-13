@@ -17,7 +17,7 @@ tags:
 
 在获取数据方面，Astro 在 `.astro` 文件里非常直观方便
 
-```astro[class="line-numbers"]
+```astro
 ---
 //这段代码会在服务端执行
 const text1 = await fetch('https://api.xxx.xxx')
