@@ -1,0 +1,32 @@
+name: Add RSS to Freshrss
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'data/friends.json'
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth:  0
+
+      - name: Install dependencies
+        run: |
+          sudo apt update -y && sudo apt install -y jq curl
+
+      - name: Get new friends
+        run: |
+          bash script/getNewFriends.sh > /tmp/newFriends.json
+          cat /tmp/newFriends.json
+
+      - name: To freshrss
+        run: bash script/toFreshrss.sh /tmp/newFriends.json
+        env: 
+          G_API_TOKEN: ${{ secrets.G_API_TOKEN }}
