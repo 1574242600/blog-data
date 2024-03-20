@@ -21,3 +21,7 @@ todo...
     "description": "一条咸鱼"
 }
 ```
+
+## 关于 favicon.ico
+作者是 [waifu-sugoi](https://www.reddit.com/user/waifu-sugoi/)，问了作者他表示允许作为 favicon.ico 使用。  
+然后把它矢量化并修改了。
