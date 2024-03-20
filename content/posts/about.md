@@ -1,6 +1,7 @@
 ---
 title: '关于'
 author: Nworm
+date: 1970-01-01 00:00:00
 ---
 
 todo...
