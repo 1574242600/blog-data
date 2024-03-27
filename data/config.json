@@ -1,4 +1,5 @@
 {
     "itemsPerPage": 5,
-    "defaultTheme": "yoshino"
+    "defaultTheme": "yoshino",
+    "friendsActivityApi": "https://freshrss.nworm.icu/api/friends.php"
 }
