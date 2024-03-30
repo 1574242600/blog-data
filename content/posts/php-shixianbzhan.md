@@ -44,14 +44,14 @@ SecretKey: e988e794d4d4b6dd43bc0e89d6e90c43
 那就只好用安卓客户端的api来玩了
 
 
-![9IkbpyWfH3ZaxQh.png](https://i.loli.net/2019/12/25/9IkbpyWfH3ZaxQh.png)
-![0OO07OWUEO{I_OU1L{VXQ2B.png](https://i.loli.net/2019/12/25/WIRCULzbswK2rZv.png)
+![1](https://i.loli.net/2019/12/25/9IkbpyWfH3ZaxQh.png)
+![2](https://i.loli.net/2019/12/25/WIRCULzbswK2rZv.png)
 
 分别请求了
 https://passport.bilibili.com/api/oauth2/getKey 用于获取加密明文密码用的hash，公钥
 https://passport.bilibili.com/api/v2/oauth2/login 用于简单的获取用户的登录凭据（access_key、Cookie）
 下面看请求参数
-![JG)6MR77DWE@769{~AB1~YH.png](https://i.loli.net/2019/12/25/sInQoOAdxNuVt6W.png)
+![3](https://i.loli.net/2019/12/25/sInQoOAdxNuVt6W.png)
 
 | 参数名   | 说明 |
 | ------ | ------ |
