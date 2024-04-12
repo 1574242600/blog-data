@@ -40,5 +40,12 @@
         "avatar": "//zankyo.cc/wp-content/uploads/2017/11/20171127_082530.jpg",
         "rss": "https://zankyo.cc/feed/",
         "description": "我竟从未留意过，这个世界是如此的美丽"
+    },
+    {
+        "name": "寒寒",
+        "url": "https://blog.alikia2x.com",
+        "avatar": "//alikia2x.com/img/avatar.png",
+        "rss": "https://blog.alikia2x.com/index.xml",
+        "description": "梦想大大，技术菜菜"
     }
 ]
