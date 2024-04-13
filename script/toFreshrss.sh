@@ -17,7 +17,7 @@ is_number() {
 }
 
 is_json() {
-    echo "$1" | jq 2>&1 1>/dev/null
+    echo "$1" | jq >/dev/null 2>&1
 
     if [[ $? -eq 0 ]]; then
         return 0
