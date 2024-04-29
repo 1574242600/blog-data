@@ -47,5 +47,12 @@
         "avatar": "//alikia2x.com/img/avatar.png",
         "rss": "https://blog.alikia2x.com/index.xml",
         "description": "梦想大大，技术菜菜"
+    },
+    {
+        "name": "High Ping",
+        "url": "https://blog.highp.ing/",
+        "avatar": "https://blog.highp.ing/HighPingBlog.png",
+        "rss": "https://blog.highp.ing/index.xml",
+        "description": "High Ping Network 官方博客"
     }
 ]
