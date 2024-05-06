@@ -54,5 +54,12 @@
         "avatar": "https://blog.highp.ing/HighPingBlog.png",
         "rss": "https://blog.highp.ing/index.xml",
         "description": "High Ping Network 官方博客"
+    },
+    {
+        "name": "UsubeniFantasy",
+        "url": "https://ssshooter.com",
+        "avatar": "https://ssshooter.com/logo.png",
+        "rss": "https://ssshooter.com/rss.xml",
+        "description": "Write like you're running out of time."
     }
 ]
