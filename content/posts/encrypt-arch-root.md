@@ -151,7 +151,7 @@ UUID 可以使用 `# blkid /dev/根分区` 查看。
 ## 参考资料
 Thx.
 1. [[ArchWiki] dm-crypt/Device encryption][参考-1] / [Archive][参考-1-存档] 
-2. [[ArchWiki] dm-crypt/Encrypting an entire system]([参考-2]) / [Archive][参考-2-存档]
+2. [[ArchWiki] dm-crypt/Encrypting an entire system][参考-2] / [Archive][参考-2-存档]
 3. [[ArchWiki] Kernel_parameters][参考-3] / [Archive][参考-3-存档]
 
 
