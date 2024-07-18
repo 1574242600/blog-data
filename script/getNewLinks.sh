@@ -1,8 +1,8 @@
 #!/bin/bash
 
 main() {
-    local lastJson=$(git show 'HEAD^:data/friends.json')
-    local nowJson=$(cat data/friends.json)
+    local lastJson=$(git show 'HEAD^:data/links.json')
+    local nowJson=$(cat data/links.json)
 
     local lastRss=($(echo "$lastJson" | jq '.[].rss' | tr -d  '"' ))
     local nowRss=($(echo "$nowJson" | jq '.[].rss' | tr -d  '"' ))

@@ -5,7 +5,7 @@ on:
     branches:
       - 'main'
     paths:
-      - 'data/friends.json'
+      - 'data/links.json'
   workflow_dispatch:
 
 jobs:
@@ -21,12 +21,12 @@ jobs:
         run: |
           sudo apt update -y && sudo apt install -y jq curl
 
-      - name: Get new friends
+      - name: Get new links
         run: |
-          bash script/getNewFriends.sh > /tmp/newFriends.json
-          cat /tmp/newFriends.json
+          bash script/getNewLinks.sh > /tmp/newLinks.json
+          cat /tmp/newLinks.json
 
       - name: To freshrss
-        run: bash script/toFreshrss.sh /tmp/newFriends.json
+        run: bash script/toFreshrss.sh /tmp/newLinks.json
         env: 
           G_API_TOKEN: ${{ secrets.G_API_TOKEN }}

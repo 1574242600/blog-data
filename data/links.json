@@ -4,6 +4,7 @@
         "url": "https://shiyu.dev",
         "avatar": "https://q1.qlogo.cn/g?b=qq&nk=396823203&s=140",
         "rss": "https://shiyu.dev/feed/",
+        "isOneWay": false,
         "description": "迷失的人迷失了，相逢的人会再相逢。"
     },
     {
@@ -11,6 +12,7 @@
         "url": "https://xfox.fun/",
         "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1912300968&s=140",
         "rss": "https://xfox.fun/feed/",
+        "isOneWay": false,
         "description": "一个神秘的人"
     },
     {
@@ -18,6 +20,7 @@
         "url": "//www.guyuhomepage.cn/Blog/",
         "avatar": "//q1.qlogo.cn/g?b=qq&nk=1140246200&s=140",
         "rss": null,
+        "isOneWay": false,
         "description": "一个神秘的人"
     },
     {
@@ -25,13 +28,15 @@
         "url": "https://dyedd.cn/",
         "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1176996982&s=140",
         "rss": "https://dyedd.cn/feed/",
+        "isOneWay": false,
         "description": "一个神秘的人"
     },
     {
         "name": "布丁の基地",
-        "url": "https://furryowo.top/",
-        "avatar": "https://furryowo.top/img/touxiang.jpg",
+        "url": "//furryowo.top/",
+        "avatar": "//furryowo.top/img/touxiang.jpg",
         "rss": "https://www.furryowo.top/feed/",
+        "isOneWay": false,
         "description": "一个神秘的人"
     },
     {
@@ -39,6 +44,7 @@
         "url": "https://zankyo.cc/",
         "avatar": "https://zankyo.cc/wp-content/uploads/2017/11/20171127_082530.jpg",
         "rss": "https://zankyo.cc/feed/",
+        "isOneWay": false,
         "description": "我竟从未留意过，这个世界是如此的美丽"
     },
     {
@@ -46,6 +52,7 @@
         "url": "https://blog.alikia2x.com",
         "avatar": "https://alikia2x.com/img/avatar.png",
         "rss": "https://blog.alikia2x.com/index.xml",
+        "isOneWay": false,
         "description": "梦想大大，技术菜菜"
     },
     {
@@ -53,6 +60,7 @@
         "url": "https://blog.highp.ing/",
         "avatar": "https://blog.highp.ing/HighPingBlog.png",
         "rss": "https://blog.highp.ing/index.xml",
+        "isOneWay": true,
         "description": "High Ping Network 官方博客"
     },
     {
@@ -60,6 +68,7 @@
         "url": "https://ssshooter.com",
         "avatar": "https://ssshooter.com/logo.png",
         "rss": "https://ssshooter.com/rss.xml",
+        "isOneWay": false,
         "description": "Write like you're running out of time."
     }
 ]

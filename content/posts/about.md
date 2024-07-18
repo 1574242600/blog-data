@@ -12,13 +12,14 @@ todo...
 - pgp: 3FF22E0DA5AA90AD
 
 ## 关于友链
-如果需要互加友链，请留言，或者前往 [blog-data](https://github.com/1574242600/blog-data) 提交 PR 修改 `data/friends.json`。
+如果需要互加友链，请留言，或者前往 [blog-data](https://github.com/1574242600/blog-data) 提交 PR 修改 `data/links.json`。
 ```json
 {
     "name": "Nworm",
     "url": "https://nworm.icu/",
     "avatar": "https://nworm.icu/avatar.webp",
     "rss": "https://nworm.icu/rss.xml",
+    "isOneWay": false,
     "description": "一条咸鱼"
 }
 ```
