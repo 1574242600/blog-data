@@ -142,5 +142,13 @@
         "rss": "https://coolshell.cn/feed",
         "isOneWay": true,
         "description": "酷壳博客"
+    },
+    {
+        "name": "BlueSkyXN",
+        "url": "https://www.blueskyxn.com",
+        "avatar": "https://avatars.githubusercontent.com/u/63384277?v=4",
+        "rss": "https://www.blueskyxn.com/rss",
+        "isOneWay": true,
+        "description": "一旦接受了自己的软弱那我就是无敌的"
     }
 ]
