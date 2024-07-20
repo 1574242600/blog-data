@@ -110,5 +110,13 @@
         "rss": "https://blog.jipai.moe/rss.xml",
         "isOneWay": true,
         "description": "一个神秘的人"
+    },
+    {
+        "name": "DIYgod",
+        "url": "https://diygod.cc",
+        "avatar": "https://avatars.githubusercontent.com/u/8266075?v=4",
+        "rss": "https://diygod.cc/feed",
+        "isOneWay": true,
+        "description": "写代码是热爱，写到世界充满爱！"
     }
 ]
