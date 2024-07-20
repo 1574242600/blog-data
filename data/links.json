@@ -70,5 +70,45 @@
         "rss": "https://ssshooter.com/rss.xml",
         "isOneWay": false,
         "description": "Write like you're running out of time."
+    },
+    {
+        "name": "木子的博客",
+        "url": "https://blog.k8s.li",
+        "avatar": "https://blog.k8s.li/avatar.png",
+        "rss": "https://blog.k8s.li/atom.xml",
+        "isOneWay": true,
+        "description": "垃圾佬、搬砖社畜、运维工程师"
+    },
+    {
+        "name": "Randy's Blog",
+        "url": "https://lutaonan.com/",
+        "avatar": "https://lutaonan.com/_astro/avatar.C37i9rHq.jpg",
+        "rss": "https://lutaonan.com/rss.xml",
+        "isOneWay": true,
+        "description": "一个神秘的人"
+    },
+    {
+        "name": "Mokeyjay's Blog",
+        "url": "https://mok.moe/",
+        "avatar": "https://www.mokeyjay.com/favicon.png",
+        "rss": "https://mok.moe/rss.xml",
+        "isOneWay": true,
+        "description": "Web全沾 // 专业学渣 // 贰刺猿 // 永远还不完信用卡"
+    },
+    {
+        "name": "Sukka's Blog",
+        "url": "https://blog.skk.moe/",
+        "avatar": "https://cdn.jsdelivr.net/npm/skx@0.0.1/avatar/128x128.png",
+        "rss": "https://blog.skk.moe/rss.xml",
+        "isOneWay": true,
+        "description": "全能大尾巴苏卡卡！"
+    },
+    {
+        "name": "JiPai's Blog",
+        "url": "https://blog.jipai.moe/",
+        "avatar": "https://avatars.githubusercontent.com/u/3956400?v=4",
+        "rss": "https://blog.jipai.moe/rss.xml",
+        "isOneWay": true,
+        "description": "一个神秘的人"
     }
 ]
