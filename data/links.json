@@ -134,5 +134,13 @@
         "rss": null,
         "isOneWay": true,
         "description": "[数据删除]"
+    },
+    {
+        "name": "酷壳",
+        "url": "https://coolshell.cn/",
+        "avatar": "https://coolshell.cn/favicon.ico",
+        "rss": "https://coolshell.cn/feed",
+        "isOneWay": true,
+        "description": "酷壳博客"
     }
 ]
