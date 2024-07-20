@@ -118,5 +118,13 @@
         "rss": "https://diygod.cc/feed",
         "isOneWay": true,
         "description": "写代码是热爱，写到世界充满爱！"
+    },
+    {
+        "name": "路由器交流",
+        "url": "https://www.acwifi.net/",
+        "avatar": "https://www.acwifi.net/favicon.ico",
+        "rss": "https://www.acwifi.net/feed",
+        "isOneWay": true,
+        "description": "无线路由器使用分享与评测对比"
     }
 ]
