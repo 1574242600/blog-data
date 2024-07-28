@@ -150,5 +150,13 @@
         "rss": "https://www.blueskyxn.com/rss",
         "isOneWay": true,
         "description": "一旦接受了自己的软弱那我就是无敌的"
+    },
+    {
+        "name": "CFC4N的博客",
+        "url": "https://www.cnxct.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/709947?v=4",
+        "rss": "https://www.cnxct.com/feed",
+        "isOneWay": true,
+        "description": "醉后不知天在水，满船清梦压星河。"
     }
 ]
