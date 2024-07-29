@@ -158,5 +158,13 @@
         "rss": "https://www.cnxct.com/feed",
         "isOneWay": true,
         "description": "醉后不知天在水，满船清梦压星河。"
+    },
+    {
+        "name": "Hoo.C.lon's blog",
+        "url": "https://hoochanlon.github.io/",
+        "avatar": "https://avatars.githubusercontent.com/u/35732922?v=4",
+        "rss": "https://hoochanlon.github.io/atom.xml",
+        "isOneWay": true,
+        "description": "爬起，躺不平，卷不赢。"
     }
 ]
