@@ -166,5 +166,13 @@
         "rss": "https://hoochanlon.github.io/atom.xml",
         "isOneWay": true,
         "description": "爬起，躺不平，卷不赢。"
+    },
+    {
+        "name": "某菜鸡的吃灰博客",
+        "url": "https://blog.sunflyer.cn/",
+        "avatar": "https://avatars.githubusercontent.com/u/5787165?v=4",
+        "rss": "https://blog.sunflyer.cn/feed",
+        "isOneWay": true,
+        "description": "一个神秘的人"
     }
 ]
