@@ -1,6 +1,7 @@
 ---
 title: 'Nginx webdav 在 Dolphin 上的一些坑'
 author: Nworm
+slug: nginx-webdav-dolphin-deken
 date: 2021-5-22 23:50:00
 tags: 
     - Webdav

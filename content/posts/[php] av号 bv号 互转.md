@@ -1,7 +1,8 @@
 ---
 title: '[php] av号 bv号 互转'
 author: Nworm
-date: 2020-3-24 8:50:00
+slug: php-bvhaozhuanav
+date: 2020-03-24 08:50:00
 tags: 
     - php
 ---

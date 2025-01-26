@@ -2,6 +2,7 @@
 title: '在 Astro 优化 md 文件里的远程图片'
 author: Nworm
 date: 2024-03-27 00:00:00
+slug: astro-youhuatupian
 tags: 
     - Astro
 ---

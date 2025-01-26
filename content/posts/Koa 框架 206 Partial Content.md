@@ -1,9 +1,11 @@
 ---
-title: '[nodejs]koa框架 206 Partial Content'
+title: 'Koa 框架 206 Partial Content'
 author: Nworm
+slug: nodejs-http206
 date: 2020-04-10 12:40:00
 tags: 
-    - js
+    - NodeJs
+    - Koa
 ---
 
 c，为什么koa它不直接支持206  

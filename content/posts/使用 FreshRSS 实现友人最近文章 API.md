@@ -1,6 +1,7 @@
 ---
 title: '使用 FreshRSS 实现友人最近文章 API'
 author: Nworm
+slug: shiyong-freshrss
 date: 2024-03-31 00:00:00
 tags: 
     - FreshRSS

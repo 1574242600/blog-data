@@ -1,6 +1,7 @@
 ---
 title: '准备迁移到 Astro (完成)'
 author: Nworm
+slug: qianmyi-2023
 date: 2023-11-19 22:00:00
 update: 2024-02-12 00:00:00
 tags: 

@@ -1,6 +1,7 @@
 ---
-title: '[php]实现b站登录'
+title: '[php] 实现b站登录'
 author: Nworm
+slug: php-shixianbzhan
 date: 2019-12-25 20:00:00
 tags: 
     - php
