@@ -174,5 +174,13 @@
         "rss": "https://blog.sunflyer.cn/feed",
         "isOneWay": true,
         "description": "一个神秘的人"
+    },
+    {
+        "name": "K4YT3X’s Blog",
+        "url": "https://k4yt3x.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/21986859?v=4",
+        "rss": "https://k4yt3x.com/index.xml",
+        "isOneWay": true,
+        "description": "所謂正確，遷移無常。"
     }
 ]
