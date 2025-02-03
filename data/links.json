@@ -182,5 +182,13 @@
         "rss": "https://k4yt3x.com/index.xml",
         "isOneWay": true,
         "description": "所謂正確，遷移無常。"
+    },
+    {
+        "name": "KAAAsS's blog",
+        "url": "https://blog.kaaass.net/",
+        "avatar": "https://avatars.githubusercontent.com/u/13360135?v=4",
+        "rss": "https://blog.kaaass.net/feed",
+        "isOneWay": true,
+        "description": "技术宅，喜欢二次元"
     }
 ]
