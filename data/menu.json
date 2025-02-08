@@ -1,6 +1,6 @@
 [
-    { "name": "主页", "svgId": "fill-house-door", "path": "/" },
-    { "name": "归档", "svgId": "fill-archive", "path": "/archives" },
-    { "name": "链接", "svgId": "fill-people", "path": "/links" },
-    { "name": "关于", "svgId": "fill-heart", "path": "/about" }
+    { "name": "主页", "svgId": "home", "path": "/" },
+    { "name": "归档", "svgId": "archive", "path": "/archives" },
+    { "name": "链接", "svgId": "people", "path": "/links" },
+    { "name": "关于", "svgId": "heart", "path": "/about" }
 ]
