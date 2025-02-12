@@ -190,5 +190,13 @@
         "rss": "https://blog.kaaass.net/feed",
         "isOneWay": true,
         "description": "技术宅，喜欢二次元"
+    },
+    {
+        "name": "SheepChef Blog",
+        "url": "https://shef.cc",
+        "avatar": "https://shef.cc/logo.png",
+        "rss": "https://shef.cc/feed",
+        "isOneWay": true,
+        "description": "蒼穹を越えて"
     }
 ]
