@@ -3,7 +3,6 @@ title: 纪念第一次 Adsense 收款
 slug: first-adsense
 author: Nworm
 date: 2025-02-28 00:00:00
-update: ""
 tags:
   - 记录
 draft: false
