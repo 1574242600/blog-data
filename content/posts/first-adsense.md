@@ -6,7 +6,7 @@ date: 2025-02-28 00:00:00
 update: ""
 tags:
   - 记录
-draft: true
+draft: false
 ---
 
 ![](https://assets.nworm.icu/adsense-0.png "付款记录")
