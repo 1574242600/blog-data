@@ -3,6 +3,7 @@ title: 在 Astro 优化 md 文件里的远程图片
 slug: astro-youhuatupian
 author: Nworm
 date: 2024-03-27 00:00:00
+update: 2025-04-30 00:00:00
 tags:
   - Astro
 draft: false
