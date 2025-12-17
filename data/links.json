@@ -198,5 +198,13 @@
         "rss": "https://shef.cc/feed",
         "isOneWay": true,
         "description": "蒼穹を越えて"
+    },
+    {
+        "name": "新的原野",
+        "url": "https://sinyalee.com/blog/",
+        "avatar": "https://sinyalee.com/SinyaHS.png",
+        "rss": "https://sinyalee.com/blog/?feed=rss2",
+        "isOneWay": true,
+        "description": "一片新的原野，一个充满爱与善良的博客"
     }
 ]
